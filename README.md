@@ -33,12 +33,12 @@ gantt
     
     section 개발 준비
     리포지토리 생성 :active,  des3, 2023-03-09, 1d
-    와이어프레임      :active, des4, 2023-03-08, 3d
+    와이어프레임      :active, des4, 2023-03-08, 2d
     
     section 개발
-    ERD          :         des5, after des4, 3d
-    URL 구현        :         des6, after des5, 5d
-    모델 구현       :         des7, after des6, 4d
+    ERD          :         des5, after des4, 2d
+    URL 구현        :         des6, after des5, 2d
+    모델 구현       :         des7, after des6, 2d
 
 ```
 
