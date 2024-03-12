@@ -76,6 +76,8 @@ gantt
     </table>
     
 * ERD
+
+![erd blog  Untitled](https://github.com/YooJi3un/Booklog/assets/75007766/6f7c2e30-6e55-4080-b70c-62232fd93227)
     
 * 애러와 애러 해결(트러블슈팅 히스토리)
    
