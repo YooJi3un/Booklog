@@ -44,7 +44,7 @@ gantt
         </tr>
         <tr>
             <td width="70%">
-                ![Booklog  review](https://github.com/YooJi3un/Booklog/assets/75007766/f299ae2b-11f4-462d-9b92-c8af4a2a4750)
+                <img src=![Booklog  review](https://github.com/YooJi3un/Booklog/assets/75007766/f299ae2b-11f4-462d-9b92-c8af4a2a4750)>
             </td>
             <td>
                 <ul>
