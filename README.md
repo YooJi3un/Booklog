@@ -28,7 +28,7 @@ gantt
     와이어프레임      :active, des4, 2023-03-08, 2d
     
     section 개발
-    ERD          :         active, des4, 2023-03-10, 2d
+    ERD          :         active, des4, 2023-03-11, 1d
     URL 구현        :       active, des4, 2023-03-12, 2d
     모델 구현       :       active, des4, 2023-03-09, 4d
 
