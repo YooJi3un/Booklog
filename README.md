@@ -1,4 +1,3 @@
-![Booklog  review](https://github.com/YooJi3un/Booklog/assets/75007766/a2b6e219-19b8-422b-a9ce-31561eb43271)# Booklog
 Django를 이용하여 책 리뷰 블로그 제작
 
 * 목표
