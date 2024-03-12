@@ -29,7 +29,7 @@ gantt
     
     section 개발
     ERD          :         active, des4, 2023-03-11, 1d
-    URL 구현        :       active, des4, 2023-03-12, 2d
+    CRUD 구현        :       active, des4, 2023-03-09, 3d
     모델 구현       :       active, des4, 2023-03-09, 4d
 
 ```
