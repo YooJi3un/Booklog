@@ -28,9 +28,9 @@ gantt
     와이어프레임      :active, des4, 2023-03-08, 2d
     
     section 개발
-    ERD          :         active, des4, 2023-03-09, 2d
-    URL 구현        :       active, des4, 2023-03-11, 2d
-    모델 구현       :       active, des4, 2023-03-11, 4d
+    ERD          :         active, des4, 2023-03-10, 2d
+    URL 구현        :       active, des4, 2023-03-12, 2d
+    모델 구현       :       active, des4, 2023-03-09, 4d
 
 ```
 
@@ -44,7 +44,7 @@ gantt
         </tr>
         <tr>
             <td width="70%">
-                <img src=![Booklog  review](https://github.com/YooJi3un/Booklog/assets/75007766/f299ae2b-11f4-462d-9b92-c8af4a2a4750)>
+                <img src="img/review.jpg">
             </td>
             <td>
                 <ul>
@@ -63,7 +63,7 @@ gantt
         </tr>
         <tr width="70%">
             <td width="70%">
-                <img src="readme_img/Blog_posts.jpg">
+                <img src="img/detail.jpg">
             </td>
             <td>
                 <ul>
