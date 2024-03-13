@@ -96,6 +96,11 @@ gantt
 
 * ERD
   -------------
+* 관계
+   * **User to Post :** 한 명의 사용자는 여러 글을 작성할 수 있습니다. (1:N 관계)
+   * **Post to Comment :** 한 개의 글에는 여러 댓글이 달릴 수 있습니다. (1:N 관계)
+   * **User to Comment :** 한 명의 사용자는 여러 댓글을 작성할 수 있습니다. (1:N 관계)
+
 ![erd blog  Untitled](https://github.com/YooJi3un/Booklog/assets/75007766/6f7c2e30-6e55-4080-b70c-62232fd93227)
 
 
