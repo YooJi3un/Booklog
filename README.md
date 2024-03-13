@@ -27,7 +27,7 @@ Django를 이용하여 책 리뷰 블로그 제작
     * **댓글 작성 기능:** 댓글 기능을 통해 책에 대한 의견을 공유하고 다른 사용자들과 상호 작용할 수 있다.
 
   
- WBS
+* WBS
   -------------
 ```mermaid
 gantt
@@ -97,6 +97,16 @@ gantt
 * ERD
   -------------
 ![erd blog  Untitled](https://github.com/YooJi3un/Booklog/assets/75007766/6f7c2e30-6e55-4080-b70c-62232fd93227)
+
+
+* 사용한 기술
+  -------------
+  Django
+  pillow
+  freeze > requirements.txt
+  django-tailwindcss
+  
+  
     
 * 에러와 에러 해결(트러블슈팅 히스토리)
   -------------
