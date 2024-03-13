@@ -75,7 +75,7 @@ gantt
     </table>
     <table>
         <tr>
-            <th></th>
+            <th>상세페이지 detail</th>
             <th>설명</th>
         </tr>
         <tr width="70%">
