@@ -153,7 +153,9 @@ gantt
   -------------
   * Django
   * pillow
-  * freeze > requirements.txt
   * django-tailwindcss
-  
+ 
+ * **Django :** 웹 개발에서 자주 마주치는 과제들을 쉽게 처리할 수 있게 해주는 다양한 기능과 도구를 제공하는 Python으로 작성된 고급 웹 프레임워크
+ * **pillow :** 이미지 처리 라이브러리로 사용. 이미지 업로드와 저장, 처리, 분석, 포맷 변환 같은 작업을 해줌
+ * **django-tailwindcss :** 반응형 디자인을 포함한 다양한 웹 디자인 요소를 HTML 클래스로 빠르게 적용할 수 있게 해줌
     
