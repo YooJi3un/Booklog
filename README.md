@@ -41,7 +41,7 @@ gantt
     WBS 작성   :done,    des2, 2023-03-07, 2d
     
     section 개발 준비
-    리포지토리 생성 :active,  des3, 2023-03-09, 1d
+    리포지토리 생성 :done,  des3, 2023-03-09, 1d
     와이어프레임      :done, des4, 2023-03-08, 2d
     
     section 개발
