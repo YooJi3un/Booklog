@@ -101,10 +101,10 @@ gantt
 
 * 사용한 기술
   -------------
-  Django
-  pillow
-  freeze > requirements.txt
-  django-tailwindcss
+  * Django
+  * pillow
+  * freeze > requirements.txt
+  * django-tailwindcss
   
   
     
