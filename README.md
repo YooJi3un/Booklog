@@ -125,8 +125,11 @@ gantt
 
 * 실제 화면
   -------------
+  * **메인 화면인 review 페이지**
+    
 ![real_list](https://github.com/YooJi3un/Booklog/assets/75007766/125f640e-6285-4815-b7b9-32f4de18dead)
 <br>
+  * **상세 화면인 detail 페이지**
 ![real_detail](https://github.com/YooJi3un/Booklog/assets/75007766/c15e93a4-184d-4bc4-b3b5-bfbc1ff472e6)
 
 <br>
