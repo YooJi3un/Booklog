@@ -125,9 +125,4 @@ gantt
   * freeze > requirements.txt
   * django-tailwindcss
   
-  
-    
-* 에러와 에러 해결(트러블슈팅 히스토리)
-  -------------
-   
     
