@@ -51,6 +51,20 @@ gantt
 
 ```
 
+* 구조
+  -------------
+  ```
+   /admin/
+   /review/
+   /review/create/
+   /review/<int:pk>/update/
+   /review/<int:pk>/delete/
+   /review/tag/<str:tag>/
+   /accounts/signup/
+   /accounts/login/
+   /accounts/logout/
+   /accounts/profile/
+  ```
 
 
 * 와이어프레임
